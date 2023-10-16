@@ -2,9 +2,11 @@
 Here I note the process for installing Arduino-IDE on Linux Ubuntu and How to add the Desktop Icon
 
 ## Installtion Flow
-1. Download the Arduino IDE 2.2.1 ZIP file for linux
+1. Download the **Arduino IDE 2.2.1 ZIP file** for linux
+https://www.arduino.cc/en/software
+![Screenshot from 2023-10-16 13-38-26](https://github.com/Joy-Zhang-0303/Arduino-IDE-Linux-Installtion/assets/48177679/dcf39a1b-7cf2-4b4a-b590-7f9cf8ebb6b1)
 
-2. Create the Arduino folder under ```/usr/local/``` and change the ownership
+2. Open the terminal to create the Arduino folder under ```/usr/local/``` and change the ownership
  ``` bash
  cd /usr/local/
  sudo mkdir arduino
